@@ -9,3 +9,6 @@ tarpaulin-report.*
 
 **/node_modules
 **/dist
+
+# Build artifacts
+*.wasm
